@@ -73,3 +73,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+Assets/Packages/Microsoft.Azure.Kinect.BodyTracking.1.1.2/content/dnn_model_2_0_op11.onnx
+Assets/Plugins/cublas64_11.dll
+Assets/Plugins/cublasLt64_11.dll
+Assets/Plugins/cudnn_ops_infer64_8.dll
